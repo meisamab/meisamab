@@ -15,7 +15,7 @@ With a passion for clean architecture and secure systems, I create scalable solu
 
 ## 🧰 Core Competencies
 
-- **Languages:** Python, Bash, PowerShell  
+- **Languages:** Python, Bash, PowerShell, JavaScript, HTML/CSS  
 - **Cloud & Infrastructure:** AWS (EC2, RDS, Lambda, S3, IAM), Azure, Docker, Terraform  
 - **API & Protocols:** REST, WebSocket, Webhook, Postman, OpenAPI  
 - **Automation & CI/CD:** GitHub Actions, Git, GitLab, Cron, Shell scripts  
@@ -26,14 +26,18 @@ With a passion for clean architecture and secure systems, I create scalable solu
 
 ## ⚒️ Skills
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white&style=flat)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white&style=flat)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
+## 🧠 Skills
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
 
 ---
 
