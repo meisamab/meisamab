@@ -43,6 +43,7 @@ With a passion for clean architecture and secure systems, I create scalable solu
   <a href="https://docs.gitlab.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab" /></a>
   <a href="https://support.atlassian.com/jira-software-cloud/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="40" alt="JIRA" /></a>
   <a href="https://help.figma.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" /></a>
+  <a href="https://www.kernel.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" /></a>
 </p>
 
 ---
